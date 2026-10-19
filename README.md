@@ -25,3 +25,16 @@ I think the biggest thing I've learned is that there isn't one tool that's best 
 While I feel more comfortable with these tools than I did at the beginning of the semester, I know there's still plenty for me to learn. One thing I'd like to improve is using Power BI with real company data rather than just training exercises. I think gaining that experience would help me become more confident and effective in a business intelligence role.
 
 AI Acknowledgment -- AI was used in editing this reflection
+
+
+
+MIS 561 - Advancing in Excel and Tableau, Part 3
+October 19, 2026
+
+Business Question: Which non-contactless cards should Bear Down Bank prioritize for early replacement, and what would the total replacement cost be?
+
+Tableau: https://public.tableau.com/views/BearDownBank-CardPortfolioAnalysisContactlessReadiness/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Reflection: If I were to complete this project again, I would look more closely at the replacement costs for different card types to see if there was a better way to prioritize them. This could help the bank make the most of its remaining budget.
+
+AI Acknowledgment: I used ChatGPT to help with Tableau formatting and chart design, and improve the wording of my dashboard explanations and design justification. All analysis and visualizations were completed in Tableau.
