@@ -38,3 +38,17 @@ Tableau: https://public.tableau.com/views/BearDownBank-CardPortfolioAnalysisCont
 Reflection: If I were to complete this project again, I would look more closely at the replacement costs for different card types to see if there was a better way to prioritize them. This could help the bank make the most of its remaining budget.
 
 AI Acknowledgment: I used ChatGPT to help with Tableau formatting and chart design, and improve the wording of my dashboard explanations and design justification. All analysis and visualizations were completed in Tableau.
+
+
+
+
+
+MIS 561 – Advancing in Excel & Tableau Pt. 4
+October 26, 2026 
+Tableau Dashboard: https://public.tableau.com/shared/4H73Z54XJ?:display_count=n&:origin=viz_share_link
+
+Business Question: Which group of Bear Down Bank customers should receive the first Wildcat Rewards credit card offer based on eligibility rates and Credit Risk requirements?
+
+Reflection: Through this analysis, I found that Gen Z had the highest eligibility rate at 26.45%, with 128 customers qualifying for the offer. If I were to do this again, I would look more closely at geographic differences within Gen Z to see which states would be the best locations for the initial mailing.
+
+AI Usage: I used ChatGPT to help me improve the wording of my dashboard documentation and design justification. The final visualizations and recommendations were based on the provided Bear Down Bank data.
