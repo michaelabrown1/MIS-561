@@ -52,3 +52,16 @@ Business Question: Which group of Bear Down Bank customers should receive the fi
 Reflection: Through this analysis, I found that Gen Z had the highest eligibility rate at 26.45%, with 128 customers qualifying for the offer. If I were to do this again, I would look more closely at geographic differences within Gen Z to see which states would be the best locations for the initial mailing.
 
 AI Usage: I used ChatGPT to help me improve the wording of my dashboard documentation and design justification. The final visualizations and recommendations were based on the provided Bear Down Bank data.
+
+
+
+November 2, 2026 – Data Storytelling with Adobe Express
+For Renee Castillo, Director of Card Operations at Bear Down Bank, Brown Analytics Group recommends replacing 211 non-contactless cards expiring in more than 12 months at an estimated cost of $1,688.
+
+https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:9011d26f-6100-5f62-b2d1-f865a04b8acf?utm_source=chatgpt.com&category=search&pageId=2146a9f3-b138-4037-ad28-80067c3167e8
+
+https://github.com/michaelabrown1/MIS-561/tree/main/adobe
+
+Design Justification:
+I chose a bar chart to show Renee how the recommended replacements are distributed across debit, prepaid debit, and credit cards. Compared to a pie chart, this makes it easier to see which card types account for the most replacements. I also removed the geographic breakdown from my earlier dashboard because customer location doesn't affect this replacement decision, allowing the recommendation and estimated costs to stand out.
+Training Completed: November 2, 2026
