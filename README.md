@@ -68,7 +68,7 @@ Training Completed: November 2, 2026
 
 
 
-November 16, 2026 · Product Pitch in Adobe Express
+November 16, 2026 - Product Pitch in Adobe Express
 
 For this assignment, I created a client pitch for Renee Castillo, Director of Card Operations at Bear Down Bank, through my consulting firm, Brown Analytics Group. Building on my previous Tableau analysis and Flex 10 infographic, I proposed a six-week planning engagement to evaluate the early replacement of 211 non-contactless cards at an estimated card replacement cost of $1,688.
 
