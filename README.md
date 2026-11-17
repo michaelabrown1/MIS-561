@@ -65,3 +65,19 @@ https://github.com/michaelabrown1/MIS-561/tree/main/adobe
 Design Justification:
 I chose a bar chart to show Renee how the recommended replacements are distributed across debit, prepaid debit, and credit cards. Compared to a pie chart, this makes it easier to see which card types account for the most replacements. I also removed the geographic breakdown from my earlier dashboard because customer location doesn't affect this replacement decision, allowing the recommendation and estimated costs to stand out.
 Training Completed: November 2, 2026
+
+
+
+November 16, 2026 · Product Pitch in Adobe Express
+
+For this assignment, I created a client pitch for Renee Castillo, Director of Card Operations at Bear Down Bank, through my consulting firm, Brown Analytics Group. Building on my previous Tableau analysis and Flex 10 infographic, I proposed a six-week planning engagement to evaluate the early replacement of 211 non-contactless cards at an estimated card replacement cost of $1,688.
+
+Product Pitch (PDF): https://github.com/michaelabrown1/MIS-561/blob/main/adobe/Brown-product-pitch.pdf
+
+Adobe Express Presentation: https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:d586f686-2730-5ca0-8d37-93518e8d7594
+
+Toughest objection: The biggest concern was why Bear Down Bank should spend money replacing cards that still work. Slide 7 addresses this by proposing a limited six-week planning phase to evaluate operational costs, customer benefits, and feasibility before committing to replacements.
+
+AI use: OpenAI ChatGPT (GPT-6), November 16, 2026. ChatGPT assisted with slide wording and identifying the executive's strongest objection. All card portfolio figures and Tableau visuals came from my previous course analysis.
+
+Training completed: Not yet completed.
