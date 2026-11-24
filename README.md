@@ -96,5 +96,5 @@ Tableau Link:
 
 One thing I'd change: I would establish the complete IMDb branding and dashboard layout before formatting individual charts to avoid having to make the same adjustments multiple times.
 
-AI Use: ChatGPT assisted with wording and analysis guidance. The original exploratory dashboard and dataset were provided as part of the assignment.
+AI Use: ChatGPT assisted with wording and analysis guidance. 
 
