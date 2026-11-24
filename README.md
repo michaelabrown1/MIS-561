@@ -81,3 +81,19 @@ Toughest objection: The biggest concern was why Bear Down Bank should spend mone
 AI use: OpenAI ChatGPT (GPT-6), November 16, 2026. ChatGPT assisted with slide wording and identifying the executive's strongest objection. All card portfolio figures and Tableau visuals came from my previous course analysis.
 
 Training completed: Not yet completed.
+
+
+## November 23, 2026 · Brand Standard Application in Tableau (Flex 12)
+
+Rebranded an existing IMDb movie dashboard using IMDb's brand standards, then developed an advertising analysis to answer:&#x20;
+
+- Which movie genres generate the most audience engagement per movie, and which should IMDb prioritize for targeted advertising packages?
+
+The analysis identified Action as the leading genre, averaging 32,781 votes per movie, followed by Animation (30,168) and Biography (27,682). The workbook includes an exploratory dashboard, an advertising analysis, and a Design Overview documenting the design decisions.
+
+**Tableau Link:** [https://public.tableau.com/views/IMDbBrandStandardApplication/IMDbMovieTrendsExplorer](https://public.tableau.com/views/IMDbBrandStandardApplication/IMDbMovieTrendsExplorer)
+
+**One thing I'd change:** I would establish the complete IMDb branding and dashboard layout before formatting individual charts to avoid having to make the same adjustments multiple times.
+
+**AI Use:** ChatGPT assisted with wording and analysis guidance. The original exploratory dashboard and dataset were provided as part of the assignment.
+
